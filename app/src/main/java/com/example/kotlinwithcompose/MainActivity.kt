@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             KotlinWithComposeTheme {
                 Scaffold(
-                    modifier = Modifier.fillMaxSize(), sdfhasdhfasdhf
+                    modifier = Modifier.fillMaxSize(), fwefdfs
                     containerColor = MaterialTheme.colorScheme.background
                 ) { innerPadding ->
                     Box(modifier = Modifier.padding(innerPadding)) {
